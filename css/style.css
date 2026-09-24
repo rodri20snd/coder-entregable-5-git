@@ -164,6 +164,9 @@ align-items: center;
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5); 
 }
 
+.desplegable {background-color: rgba(127, 236, 255, 0.849);
+width: 70%;}
+
 /*grid*/
 .foto_artista1 {grid-area: artista1;}
 .foto_artista2 {grid-area: artista2;}
